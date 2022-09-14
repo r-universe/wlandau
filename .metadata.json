@@ -12,6 +12,14 @@
     "oncran": true
   },
   {
+    "package": "historicalborrow",
+    "oncran": true
+  },
+  {
+    "package": "historicalborrowlong",
+    "oncran": true
+  },
+  {
     "package": "txtq",
     "oncran": true
   },

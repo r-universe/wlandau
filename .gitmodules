@@ -18,6 +18,16 @@
 	url = https://github.com/wlandau/grapes
 	shallow = true
 	registered = true
+[submodule "historicalborrow"]
+	path = historicalborrow
+	url = https://github.com/wlandau/historicalborrow
+	shallow = true
+	registered = true
+[submodule "historicalborrowlong"]
+	path = historicalborrowlong
+	url = https://github.com/wlandau/historicalborrowlong
+	shallow = true
+	registered = true
 [submodule "txtq"]
 	path = txtq
 	url = https://github.com/wlandau/txtq
