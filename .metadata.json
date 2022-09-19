@@ -1,9 +1,5 @@
 [
   {
-    "package": "downsize",
-    "oncran": true
-  },
-  {
     "package": "eply",
     "oncran": true
   },
