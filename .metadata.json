@@ -1,5 +1,9 @@
 [
   {
+    "package": "historicalborrowlong",
+    "oncran": true
+  },
+  {
     "package": "downsize",
     "oncran": true
   },
@@ -8,7 +12,7 @@
     "oncran": true
   },
   {
-    "package": "grapes",
+    "package": "txtq",
     "oncran": true
   },
   {
@@ -16,15 +20,11 @@
     "oncran": true
   },
   {
-    "package": "historicalborrowlong",
-    "oncran": true
-  },
-  {
-    "package": "txtq",
-    "oncran": true
-  },
-  {
     "package": "wildcard",
+    "oncran": true
+  },
+  {
+    "package": "grapes",
     "oncran": true
   }
 ]
