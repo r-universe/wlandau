@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "historicalborrowlong"]
-	path = historicalborrowlong
-	url = https://github.com/wlandau/historicalborrowlong
-	shallow = true
-	registered = true
 [submodule "downsize"]
 	path = downsize
 	url = https://github.com/wlandau/downsize
@@ -18,9 +13,9 @@
 	url = https://github.com/wlandau/eply
 	shallow = true
 	registered = true
-[submodule "txtq"]
-	path = txtq
-	url = https://github.com/wlandau/txtq
+[submodule "grapes"]
+	path = grapes
+	url = https://github.com/wlandau/grapes
 	shallow = true
 	registered = true
 [submodule "historicalborrow"]
@@ -28,13 +23,18 @@
 	url = https://github.com/wlandau/historicalborrow
 	shallow = true
 	registered = true
+[submodule "historicalborrowlong"]
+	path = historicalborrowlong
+	url = https://github.com/wlandau/historicalborrowlong
+	shallow = true
+	registered = true
+[submodule "txtq"]
+	path = txtq
+	url = https://github.com/wlandau/txtq
+	shallow = true
+	registered = true
 [submodule "wildcard"]
 	path = wildcard
 	url = https://github.com/wlandau/wildcard
-	shallow = true
-	registered = true
-[submodule "grapes"]
-	path = grapes
-	url = https://github.com/wlandau/grapes
 	shallow = true
 	registered = true
