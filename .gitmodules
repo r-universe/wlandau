@@ -43,3 +43,8 @@
 	url = https://github.com/wlandau/wildcard
 	shallow = true
 	registered = true
+[submodule "mirai"]
+	path = mirai
+	url = https://github.com/shikokuchuo/mirai
+	shallow = true
+	registered = false
