@@ -8,6 +8,11 @@
 	url = https://github.com/wlandau/crew
 	shallow = true
 	registered = true
+[submodule "crew.cluster"]
+	path = crew.cluster
+	url = https://github.com/wlandau/crew.cluster
+	shallow = true
+	registered = true
 [submodule "downsize"]
 	path = downsize
 	url = https://github.com/wlandau/downsize
