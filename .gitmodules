@@ -23,6 +23,9 @@
 [submodule "historicalborrowlong"]
 	path = historicalborrowlong
 	url = https://github.com/wlandau/historicalborrowlong
+[submodule "instantiate"]
+	path = instantiate
+	url = https://github.com/wlandau/instantiate
 [submodule "txtq"]
 	path = txtq
 	url = https://github.com/wlandau/txtq
