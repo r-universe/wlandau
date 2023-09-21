@@ -1,34 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/wlandau/wlandau.r-universe.dev
 	branch = HEAD
-[submodule "crew"]
-	path = crew
-	url = https://github.com/wlandau/crew
-[submodule "crew.cluster"]
-	path = crew.cluster
-	url = https://github.com/wlandau/crew.cluster
-[submodule "downsize"]
-	path = downsize
-	url = https://github.com/wlandau/downsize
-[submodule "eply"]
-	path = eply
-	url = https://github.com/wlandau/eply
-[submodule "grapes"]
-	path = grapes
-	url = https://github.com/wlandau/grapes
-[submodule "historicalborrow"]
-	path = historicalborrow
-	url = https://github.com/wlandau/historicalborrow
-[submodule "historicalborrowlong"]
-	path = historicalborrowlong
-	url = https://github.com/wlandau/historicalborrowlong
-[submodule "instantiate"]
-	path = instantiate
-	url = https://github.com/wlandau/instantiate
-[submodule "txtq"]
-	path = txtq
-	url = https://github.com/wlandau/txtq
-[submodule "wildcard"]
-	path = wildcard
-	url = https://github.com/wlandau/wildcard
+[submodule "mirai"]
+	path = mirai
+	url = https://github.com/shikokuchuo/mirai
+[submodule "nanonext"]
+	path = nanonext
+	url = https://github.com/shikokuchuo/nanonext
