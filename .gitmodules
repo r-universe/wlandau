@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/wlandau/wlandau.r-universe.dev
 	branch = HEAD
+[submodule "crew"]
+	path = crew
+	url = https://github.com/wlandau/crew
+[submodule "crew.cluster"]
+	path = crew.cluster
+	url = https://github.com/wlandau/crew.cluster
 [submodule "mirai"]
 	path = mirai
 	url = https://github.com/shikokuchuo/mirai
