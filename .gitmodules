@@ -5,6 +5,9 @@
 [submodule "crew"]
 	path = crew
 	url = https://github.com/wlandau/crew
+[submodule "crew.aws.batch"]
+	path = crew.aws.batch
+	url = https://github.com/wlandau/crew.aws.batch
 [submodule "crew.cluster"]
 	path = crew.cluster
 	url = https://github.com/wlandau/crew.cluster
