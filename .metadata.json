@@ -1,0 +1,22 @@
+[
+  {
+    "package": "nanonext",
+    "releasetag": true
+  },
+  {
+    "package": "mirai",
+    "releasetag": true
+  },
+  {
+    "package": "crew",
+    "releasetag": true
+  },
+  {
+    "package": "crew.aws.batch",
+    "releasetag": true
+  },
+  {
+    "package": "crew.cluster",
+    "releasetag": true
+  }
+]

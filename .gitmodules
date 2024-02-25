@@ -5,15 +5,20 @@
 [submodule "crew"]
 	path = crew
 	url = https://github.com/wlandau/crew
+	branch = *release
 [submodule "crew.aws.batch"]
 	path = crew.aws.batch
 	url = https://github.com/wlandau/crew.aws.batch
+	branch = *release
 [submodule "crew.cluster"]
 	path = crew.cluster
 	url = https://github.com/wlandau/crew.cluster
+	branch = *release
 [submodule "mirai"]
 	path = mirai
 	url = https://github.com/shikokuchuo/mirai
+	branch = *release
 [submodule "nanonext"]
 	path = nanonext
 	url = https://github.com/shikokuchuo/nanonext
+	branch = *release
