@@ -4,5 +4,17 @@
     "url": "https://github.com/wlandau/autometric",
     "via": ["crew"],
     "from": "crew"
+  },
+  {
+    "package": "autometric",
+    "url": "https://github.com/wlandau/autometric",
+    "via": ["crew.aws.batch", "crew"],
+    "from": "crew.aws.batch"
+  },
+  {
+    "package": "crew",
+    "url": "https://github.com/wlandau/crew",
+    "via": ["crew.aws.batch"],
+    "from": "crew.aws.batch"
   }
 ]
