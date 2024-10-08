@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/wlandau/wlandau.r-universe.dev
 	branch = HEAD
+[submodule "autometric"]
+	path = autometric
+	url = https://github.com/wlandau/autometric
+	registered = false
 [submodule "crew"]
 	path = crew
 	url = https://github.com/wlandau/crew
