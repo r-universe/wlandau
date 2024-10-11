@@ -1,11 +1,5 @@
 [
   {
-    "package": "autometric",
-    "url": "https://github.com/wlandau/autometric",
-    "via": ["crew.cluster", "crew"],
-    "from": "crew.cluster"
-  },
-  {
     "package": "crew",
     "url": "https://github.com/wlandau/crew",
     "via": ["crew.aws.batch"],
