@@ -1,8 +1,0 @@
-[
-  {
-    "package": "crew",
-    "url": "https://github.com/wlandau/crew",
-    "via": ["crew.cluster"],
-    "from": "crew.cluster"
-  }
-]
