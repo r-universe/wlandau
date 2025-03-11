@@ -20,10 +20,3 @@
 [submodule "nanonext"]
 	path = nanonext
 	url = https://github.com/shikokuchuo/nanonext
-[submodule "proffer"]
-	path = proffer
-	url = https://github.com/r-prof/proffer
-	branch = test-universe
-[submodule "withr"]
-	path = withr
-	url = https://github.com/r-lib/withr
