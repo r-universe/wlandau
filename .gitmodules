@@ -26,4 +26,4 @@
 [submodule "targets"]
 	path = targets
 	url = https://github.com/ropensci/targets
-	branch = *release
+	branch = 1.11.3
