@@ -20,3 +20,10 @@
 [submodule "nanonext"]
 	path = nanonext
 	url = https://github.com/shikokuchuo/nanonext
+[submodule "tarchetypes"]
+	path = tarchetypes
+	url = https://github.com/ropensci/tarchetypes
+[submodule "targets"]
+	path = targets
+	url = https://github.com/ropensci/targets
+	branch = *release
