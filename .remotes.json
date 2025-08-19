@@ -1,5 +1,17 @@
 [
   {
+    "package": "mirai",
+    "url": "https://github.com/r-lib/mirai",
+    "via": ["crew"],
+    "from": "crew"
+  },
+  {
+    "package": "nanonext",
+    "url": "https://github.com/r-lib/nanonext",
+    "via": ["crew", "mirai"],
+    "from": "crew"
+  },
+  {
     "package": "nanonext",
     "url": "https://github.com/r-lib/nanonext",
     "via": ["mirai"],
