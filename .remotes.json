@@ -8,7 +8,7 @@
   {
     "package": "nanonext",
     "url": "https://github.com/r-lib/nanonext",
-    "via": ["crew", "mirai"],
+    "via": ["crew"],
     "from": "crew"
   }
 ]
