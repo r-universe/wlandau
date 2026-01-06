@@ -30,4 +30,4 @@
 [submodule "test"]
 	path = test
 	url = https://codeberg.org/wlandau/test
-	branch = *release
+	branch = 0.0.2
