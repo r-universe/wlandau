@@ -29,7 +29,7 @@
 [submodule "targets"]
 	path = targets
 	url = https://github.com/ropensci/targets
-	branch = 1.12.0
+	branch = 1.12.1
 [submodule "test"]
 	path = test
 	url = https://codeberg.org/wlandau/test
